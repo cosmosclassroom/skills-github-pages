@@ -1,0 +1,5 @@
+output:
+  revealjs:
+    default: true # Enable Jekyll Reveal.js plugin
+    theme: moon
+    transition: none
